@@ -24,5 +24,5 @@ spring:
 words: boat,book,vote,seat,backpack,partition,groundhog
 ---
 spring:
-  profiles:noun2
+  profiles: noun2
 words: icicle,refrigerator,blizzard,snowball
